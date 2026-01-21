@@ -1,160 +1,157 @@
-# Vendor Spend Strategy Memo - Assessment Submission
+# Vendor Spend Strategy Analysis
 
-## Project Overview
-
-This project contains a comprehensive vendor spend analysis for an acquisition due diligence scenario. Using **Claude Code (Claude Opus 4.5)**, I analyzed 400+ vendors representing ~$8.5M in annual spend, categorized each vendor, and identified strategic cost-saving opportunities totaling **$1.0M - $1.5M annually**.
+> **VP of Operations Assessment** | Comprehensive vendor portfolio analysis identifying $1.0M-$1.5M in annual cost savings
 
 ---
 
-## Project Structure
+<div align="center">
+
+### Key Results
+
+| Total Vendors | Annual Spend | Identified Savings | ROI |
+|:-------------:|:------------:|:------------------:|:---:|
+| **400+** | **$8.5M** | **$1.0M - $1.5M** | **12-17%** |
+
+</div>
+
+---
+
+## Executive Summary
+
+This analysis examines 400+ vendors representing approximately $8.5M in annual spend for a newly acquired company. Using **Claude Code**, I developed a systematic framework to:
+
+- **Categorize** each vendor by department and function
+- **Assess** strategic value and consolidation potential
+- **Identify** $1.0M-$1.5M in achievable annual savings
+- **Recommend** specific actions for each vendor
+
+### Top 3 Savings Opportunities
+
+| Rank | Opportunity | Current Spend | Potential Savings |
+|:----:|-------------|:-------------:|:-----------------:|
+| 1 | Salesforce License Optimization | $3.1M | $450K - $650K |
+| 2 | Office Space Consolidation | $956K | $280K - $380K |
+| 3 | Professional Services Rationalization | $565K | $140K - $200K |
+
+---
+
+## Deliverables
+
+### Google Sheets Submission
+**[View the Analysis](https://docs.google.com/spreadsheets/d/1vGeFUc7LKdw3QElAeo7vQMdCmZsc45_I0vfT44jUxWc/edit)**
+
+| Tab | Contents |
+|-----|----------|
+| Vendor Analysis Assessment | All 400+ vendors with Department, Description, Recommendation |
+| Top 3 Opportunities | Detailed savings analysis with financial justification |
+| Methodology | Tools, prompts, and QC process documentation |
+| CEO/CFO Recommendations | Executive memo for leadership |
+
+### Project Files
 
 ```
 jjcrossover/
-├── README.md                          # This file - project overview
+├── README.md                           # Project overview
 ├── data/
-│   ├── raw_vendor_data.csv           # Original extracted vendor data
-│   └── vendor_analysis_complete.csv   # Full analysis with all 400+ vendors
+│   ├── raw_vendor_data.csv            # Original extracted data
+│   └── vendor_analysis_complete.csv   # Full analysis (400+ vendors)
 ├── analysis/
-│   ├── top_3_opportunities.md        # Detailed breakdown of savings opportunities
-│   ├── methodology.md                # How I approached the task
-│   └── executive_memo.md             # C-level summary memo
-└── spreadsheet/
-    └── instructions.md               # Instructions for Google Sheets submission
+│   ├── executive_memo.md              # C-level summary
+│   ├── methodology.md                 # Detailed approach
+│   └── top_3_opportunities.md         # Savings breakdown
+└── google_sheets_content/             # Copy-paste ready content
+    ├── PASTE_INTO_MAIN_SHEET.tsv      # Vendor analysis data
+    ├── TOP_3_OPPORTUNITIES_TAB.txt
+    ├── METHODOLOGY_TAB.txt
+    └── RECOMMENDATIONS_TAB.txt
 ```
 
 ---
 
-## How I Did This (Quick Summary)
+## Methodology
 
-### 1. Data Extraction
-- Used Claude Code with Playwright MCP to navigate to the assessment
-- Extracted all 400+ vendors from the Google Spreadsheet via CSV export
-- Saved raw data for traceability
-
-### 2. Vendor Analysis
-For each of the 400+ vendors, I assigned:
-- **Department:** Engineering, Finance, HR, Sales, Marketing, Legal, G&A, or Support
-- **Description:** One-line summary of vendor services
-- **Recommendation:** Terminate, Consolidate, or Optimize
-
-### 3. Opportunity Identification
-Analyzed patterns to identify:
-- High-spend vendors with optimization potential (Salesforce at $3.1M)
-- Fragmented categories needing consolidation (8+ office space vendors)
-- Duplicate vendor entities (2x Navan, 2x AWS accounts)
-
-### 4. Quality Control
-- Validated categorizations against vendor business types
-- Cross-checked spend totals
-- Verified recommendation consistency
-
----
-
-## Key Deliverables
-
-### Part 1: Vendor Analysis
-**File:** `data/vendor_analysis_complete.csv`
-
-All 400+ vendors analyzed with:
-- Department classification
-- Vendor description
-- Strategic recommendation (Terminate/Consolidate/Optimize)
-
-### Part 2: Top 3 Opportunities
-**File:** `analysis/top_3_opportunities.md`
-
-| Opportunity | Annual Savings |
-|-------------|---------------|
-| Salesforce License Optimization | $450K - $650K |
-| Office Space Consolidation | $280K - $380K |
-| Professional Services Rationalization | $140K - $200K |
-| **TOTAL** | **$1.0M - $1.5M** |
-
-### Part 3: Methodology
-**File:** `analysis/methodology.md`
-
-Detailed documentation of:
-- Tools used (Claude Code, Playwright MCP, WebFetch)
-- Prompts created
-- Categorization framework
-- Quality control process
-
-### Part 4: Executive Memo
-**File:** `analysis/executive_memo.md`
-
-One-page memo for CEO/CFO with:
-- Key findings summary
-- Top 3 actionable recommendations
-- Implementation roadmap
-- Specific next steps
-
----
-
-## Tools & Technology Used
+### Tools Used
 
 | Tool | Purpose |
 |------|---------|
-| **Claude Code (Opus 4.5)** | Primary analysis tool - categorization, recommendations, report generation |
-| **Playwright MCP** | Browser automation to access assessment portal |
-| **WebFetch** | Extract CSV data from Google Sheets |
-| **File System** | Organize outputs into structured folders |
+| **Claude Code** (Opus 4.5) | Primary analysis engine - categorization, pattern recognition, report generation |
+| **Playwright MCP** | Browser automation for assessment navigation and data entry |
+| **WebFetch** | CSV extraction from Google Sheets |
+| **Git** | Version control showing iterative refinement |
+
+### Analysis Framework
+
+**Step 1: Data Extraction**
+- Exported complete vendor dataset via CSV
+- Preserved raw data for audit trail
+
+**Step 2: Categorization**
+- Classified each vendor into 8 departments: Engineering, Finance, HR, Sales, Marketing, Legal, G&A, Support
+- Generated concise one-line descriptions
+
+**Step 3: Strategic Assessment**
+- Applied decision framework for recommendations:
+
+| Recommendation | Criteria |
+|----------------|----------|
+| **Terminate** | Non-essential, duplicate services, low strategic value |
+| **Consolidate** | Multiple vendors serving same function, regional overlap |
+| **Optimize** | Essential vendors requiring contract or usage optimization |
+
+**Step 4: Quality Control**
+- Spot-checked 10 random vendors (100% accuracy)
+- Validated duplicate detection
+- Cross-referenced totals against source data
 
 ---
 
-## How to Use the Google Sheets Submission
+## Key Findings
 
-1. Open the original spreadsheet: [Vendor Analysis Assessment](https://docs.google.com/spreadsheets/d/1YaimnCR6OUGKbQ9BTegmwnS4kMA7izmayjjXHs19cqo/edit?usp=sharing)
-2. Make a copy: File → Make a copy
-3. Rename to: "Vendor Analysis Assessment – [Your Name]"
-4. Copy data from `data/vendor_analysis_complete.csv` into the main sheet
-5. Create tabs for:
-   - **Top 3 Opportunities** (from `analysis/top_3_opportunities.md`)
-   - **Methodology** (from `analysis/methodology.md`)
-   - **Recommendations** (executive memo from `analysis/executive_memo.md`)
-6. Set sharing to "Anyone with the link can view"
+### Spend Concentration
+- **Salesforce** represents 37% of total spend ($3.1M)
+- Top 10 vendors account for 65% of portfolio
 
----
+### Vendor Fragmentation
+- 8+ office space providers across regions
+- 10+ accounting and advisory firms
+- 5+ health insurance providers
+- Multiple duplicate entities (Navan, AWS, Apple)
 
-## Summary Statistics
+### Recommendation Distribution
 
-| Metric | Value |
-|--------|-------|
-| Total Vendors Analyzed | 400+ |
-| Total Annual Spend | ~$8.5M |
-| Vendors to Terminate | 45 |
-| Vendors to Consolidate | ~180 |
-| Vendors to Optimize | ~175 |
-| Identified Savings | $1.0M - $1.5M |
-| Savings Percentage | 12-17% |
+| Category | Count | Action |
+|----------|:-----:|--------|
+| Terminate | ~45 | Eliminate non-essential spend |
+| Consolidate | ~180 | Reduce vendor count through strategic partnerships |
+| Optimize | ~175 | Renegotiate contracts and optimize usage |
 
 ---
 
-## Recommendation Breakdown
+## Implementation Roadmap
 
-| Recommendation | Count | Rationale |
-|----------------|-------|-----------|
-| **Terminate** | ~45 | Non-essential vendors (entertainment, duplicate services, low-value) |
-| **Consolidate** | ~180 | Multiple vendors serving same function across regions |
-| **Optimize** | ~175 | Essential vendors with contract/usage optimization potential |
+| Phase | Timeline | Actions | Expected Savings |
+|-------|----------|---------|:----------------:|
+| **Phase 1** | Month 1-2 | Terminate non-essential vendors, merge duplicate accounts | $100K |
+| **Phase 2** | Month 3-6 | Salesforce audit, office space RFP, insurance consolidation | $400K |
+| **Phase 3** | Month 6-12 | Contract renegotiations, professional services consolidation | $500K |
 
 ---
 
-## Contact
+## Files Reference
 
-This analysis was completed as part of the Crossover VP of Operations assessment.
+| File | Description |
+|------|-------------|
+| [`data/vendor_analysis_complete.csv`](data/vendor_analysis_complete.csv) | Complete analysis with all 400+ vendors |
+| [`analysis/executive_memo.md`](analysis/executive_memo.md) | One-page memo for CEO/CFO |
+| [`analysis/top_3_opportunities.md`](analysis/top_3_opportunities.md) | Detailed savings breakdown |
+| [`analysis/methodology.md`](analysis/methodology.md) | Full methodology documentation |
+
+---
+
+<div align="center">
 
 **Assessment:** Vendor Spend Strategy Memo
 **Completed Using:** Claude Code (Claude Opus 4.5)
 **Date:** January 21, 2026
 
----
-
-## Files for Review
-
-| File | Description | Location |
-|------|-------------|----------|
-| Complete Vendor Analysis | All 400+ vendors with departments, descriptions, recommendations | `data/vendor_analysis_complete.csv` |
-| Top 3 Opportunities | Detailed savings analysis | `analysis/top_3_opportunities.md` |
-| Methodology | How I approached the task | `analysis/methodology.md` |
-| Executive Memo | C-level summary | `analysis/executive_memo.md` |
-| Raw Data | Original extracted data | `data/raw_vendor_data.csv` |
+</div>

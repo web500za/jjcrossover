@@ -1,0 +1,383 @@
+Sales	Enterprise CRM platform for sales automation and customer relationship management	Optimize
+G&A	Corporate travel and expense management platform	Consolidate
+Finance	Global accounting and audit professional services firm	Consolidate
+G&A	Commercial office space and real estate provider	Consolidate
+Engineering	Cloud infrastructure and technology services provider	Optimize
+G&A	Commercial office building and workspace provider in Zagreb	Consolidate
+G&A	Flexible workspace and office solutions provider in India	Consolidate
+G&A	Commercial property management and workspace provider	Consolidate
+Finance	Commercial insurance brokerage services	Optimize
+G&A	Office space and commercial real estate provider	Consolidate
+HR	Employee health insurance and benefits provider	Optimize
+Finance	Corporate finance advisory and M&A services	Optimize
+Engineering	Cloud computing infrastructure and platform services	Consolidate
+Engineering	Global telecommunications and connectivity services	Consolidate
+HR	HR consulting and workforce management services	Optimize
+Finance	Financial advisory and consulting services	Consolidate
+Legal	Corporate and commercial legal services firm	Optimize
+Engineering	IT consulting and software development services	Optimize
+Marketing	Creative agency and brand marketing services	Optimize
+Finance	Financial services and investment advisory	Consolidate
+G&A	Flexible coworking space and office solutions	Consolidate
+Engineering	Cloud consulting and Google Cloud implementation partner	Consolidate
+G&A	Corporate travel booking and expense management (duplicate entity)	Consolidate
+Engineering	Telecom industry association and standards organization	Optimize
+HR	Professional networking and recruitment platform	Optimize
+Finance	Professional services automation and PSA software	Optimize
+Finance	Accounting and financial management software	Consolidate
+Finance	Audit accounting and advisory professional services	Consolidate
+G&A	University student center venue and event space in Zagreb	Optimize
+Finance	Virtual data room and secure document sharing for M&A	Optimize
+Engineering	Software development and IT services company	Optimize
+Legal	Legal training and paralegal staffing services	Optimize
+HR	Salesforce recruitment and staffing agency	Consolidate
+Finance	Investment banking and financial advisory services	Optimize
+Finance	Private equity and investment management firm	Terminate
+Marketing	Marketing automation and CRM platform	Consolidate
+G&A	Business services and administrative support provider	Optimize
+Finance	Financial planning and analysis (FP&A) software platform	Optimize
+Sales	B2B sales intelligence and lead generation platform	Consolidate
+Marketing	Content experience and marketing platform	Terminate
+HR	Life insurance provider for employee benefits	Consolidate
+Engineering	Cloud services advertising and productivity tools	Optimize
+Legal	Croatian law firm for corporate legal services	Optimize
+HR	Employee health insurance provider	Consolidate
+Engineering	Network infrastructure and IT services	Consolidate
+HR	International health insurance and benefits provider	Consolidate
+Engineering	IT solutions and software development services	Optimize
+HR	IT staffing and technical recruitment agency	Consolidate
+Marketing	Programmatic advertising and marketing analytics	Terminate
+HR	Recruitment and staffing agency	Consolidate
+Finance	International tax and accounting consulting	Optimize
+Engineering	Telecommunications and internet services in Croatia	Consolidate
+G&A	Food services and facilities management	Optimize
+HR	Employee engagement and feedback platform	Optimize
+Marketing	Digital marketing and SEO services	Terminate
+G&A	Business process outsourcing and support services	Optimize
+G&A	Commercial real estate and property management	Consolidate
+Engineering	Enterprise automation and integration platform	Optimize
+G&A	Retail grocery and office supplies provider	Optimize
+Finance	Financial advisory and consulting services	Consolidate
+G&A	Office space and coworking solutions in India	Consolidate
+Finance	Tax preparation and compliance services	Consolidate
+G&A	Facilities and office services provider	Optimize
+Engineering	Computer systems and IT equipment supplier	Optimize
+G&A	Business services and administrative support	Optimize
+Finance	R&D tax credits and grant funding consultancy	Optimize
+HR	Health insurance and employee benefits provider	Consolidate
+Finance	Accounting and tax advisory services	Consolidate
+HR	Health insurance provider in Australia	Consolidate
+Finance	Management consulting and advisory services	Consolidate
+G&A	Zagreb city government - permits and urban planning	Optimize
+G&A	Business consulting and advisory services	Terminate
+G&A	General business services provider	Optimize
+HR	Immigration and visa services for employees	Optimize
+G&A	Hotel and venue for corporate events	Optimize
+HR	Executive search and recruitment firm	Consolidate
+HR	Leadership development and training consultancy	Optimize
+HR	Performance management software platform	Optimize
+Engineering	Software licenses and cloud services (Microsoft 365 Azure)	Optimize
+G&A	Corporate catering and food services	Consolidate
+G&A	Business services and office support provider	Optimize
+Sales	Sales engagement and automation platform	Consolidate
+G&A	Commercial real estate services and property management	Consolidate
+G&A	Student center venue for events in Split	Consolidate
+Marketing	News media advertising and recruitment ads	Terminate
+Finance	Corporate secretarial and trust services	Optimize
+Engineering	Video conferencing and remote collaboration tools	Consolidate
+HR	HR consulting and international payroll services	Consolidate
+Engineering	Project management and collaboration tool	Consolidate
+G&A	Cleaning and facility maintenance services	Optimize
+Engineering	Telecommunications procurement services	Consolidate
+HR	Workers compensation insurance provider	Optimize
+HR	General insurance and employee coverage provider	Consolidate
+Marketing	Creative design and branding agency	Optimize
+G&A	Office supplies and business equipment provider	Optimize
+HR	HR consulting and employee benefits advisory	Consolidate
+Finance	Corporate services and business registration	Consolidate
+HR	Employee bicycle and green commute benefit scheme	Optimize
+G&A	Restaurant for client entertainment and team events	Optimize
+HR	Employee wellness and fitness program provider	Terminate
+Engineering	Cloud computing services (duplicate AWS entity)	Consolidate
+Engineering	Telecommunications and internet services provider	Consolidate
+Finance	Corporate services and compliance in USA	Consolidate
+G&A	Security services and workplace safety	Optimize
+G&A	Catering and bar services for corporate events	Consolidate
+Finance	Big 4 accounting audit and consulting services	Consolidate
+HR	Executive recruitment and staffing services	Consolidate
+Legal	Outsourced legal counsel and advisory services	Optimize
+Finance	Payroll processing and compliance services	Optimize
+G&A	Hotel for corporate events and offsites in India	Optimize
+Engineering	Developer tools and IDE software licenses	Optimize
+Legal	International law firm for corporate matters	Consolidate
+HR	Corporate wellness and mindfulness programs	Terminate
+Finance	Audit and accounting services in Croatia	Consolidate
+G&A	Resort venue for corporate offsites in India	Consolidate
+Engineering	Software development and IT consulting	Optimize
+HR	Employee benefits and meal voucher services	Optimize
+Engineering	Document audit trail and compliance software	Optimize
+Engineering	IT systems and security solutions provider	Optimize
+Legal	Law firm for corporate and employment matters	Consolidate
+Engineering	Creative software and document management tools	Optimize
+G&A	Hotel for corporate accommodation and events	Consolidate
+G&A	Coworking space and flexible office solutions	Consolidate
+Engineering	Hardware and device purchases (iPhones MacBooks)	Consolidate
+Engineering	JavaScript package registry and development tools	Optimize
+HR	Online testing and certification platform	Optimize
+G&A	Electricity utility provider in Croatia	Optimize
+G&A	Beverage and refreshment services for office	Optimize
+HR	Employee gym and fitness membership provider	Terminate
+Engineering	Product roadmap and project management software	Consolidate
+Marketing	SEO and digital marketing analytics platform	Optimize
+G&A	Parking services for office location	Optimize
+Engineering	Mobile telecommunications services in Australia	Consolidate
+G&A	Office furniture and equipment supplier	Optimize
+G&A	Business services and office support	Optimize
+HR	Job portal and recruitment advertising (Naukri)	Consolidate
+G&A	Split city government fees and permits	Optimize
+Engineering	Mobile telecommunications and wireless services	Consolidate
+Engineering	IT services and software solutions provider	Optimize
+G&A	Quality certification and compliance auditing	Optimize
+HR	Life insurance for employee benefits	Consolidate
+G&A	Facilities management and office services	Optimize
+Engineering	Work management and collaboration platform	Consolidate
+G&A	Team building and corporate gaming events	Terminate
+G&A	Parking garage services in Split	Consolidate
+G&A	Business services and general supplies	Optimize
+Engineering	IT support and technology services	Consolidate
+Marketing	Business conference and event organizer	Optimize
+HR	Employee wellness and health programs	Terminate
+HR	Corporate wellness and healthy snacks	Terminate
+Finance	Accounting and bookkeeping services	Consolidate
+G&A	Venue for corporate events and team offsites	Consolidate
+Engineering	JavaScript data grid component for developers	Optimize
+Sales	B2B contact data and sales prospecting tool	Consolidate
+G&A	Corporate food and catering services	Consolidate
+Marketing	Promotional products and branded merchandise	Optimize
+G&A	Office catering and food delivery service	Consolidate
+G&A	Individual contractor - business services	Optimize
+G&A	Office relocation and moving services	Optimize
+G&A	Charity merchandise and corporate gifts	Terminate
+Engineering	Telecommunications services in Singapore	Consolidate
+Finance	Accounting and tax advisory services in India	Consolidate
+G&A	Individual contractor - consulting services	Optimize
+G&A	Individual contractor - consulting services	Optimize
+Engineering	Computer hardware and printing equipment	Consolidate
+Marketing	Press release distribution and PR services	Optimize
+G&A	Individual contractor - business services	Optimize
+Engineering	Technology and software solutions provider	Optimize
+G&A	Hotel for corporate events in India	Consolidate
+Engineering	Apple hardware purchases in Australia	Consolidate
+Engineering	Team messaging and collaboration platform	Consolidate
+Legal	Notary services for legal documents	Optimize
+Engineering	Apple software and services distribution	Consolidate
+Finance	Tax advisory and consulting services	Consolidate
+G&A	Individual contractor - consulting services	Optimize
+G&A	Individual contractor - business services	Optimize
+G&A	Business services and consulting	Optimize
+G&A	Business services provider in Croatia	Optimize
+Finance	Climate and sustainability consulting	Optimize
+G&A	Business consulting and advisory services	Terminate
+G&A	Team building art and painting activities	Terminate
+Marketing	PR and communications consulting	Optimize
+Engineering	Digital product development and design	Optimize
+G&A	Student center venue for events	Consolidate
+G&A	Corporate entertainment and comedy events	Terminate
+Engineering	Telecommunications services in UK	Consolidate
+G&A	Food concessions and catering services	Consolidate
+G&A	Hotel for corporate accommodation	Consolidate
+Finance	Procurement and supply chain software (SAP)	Optimize
+G&A	Recreation club for corporate events	Terminate
+Legal	Legal services and corporate counsel	Consolidate
+Engineering	Electronic signature and contract management	Optimize
+HR	Employee vehicle leasing benefit program	Optimize
+G&A	Business services provider in Croatia	Optimize
+G&A	Recreation club membership for team events	Terminate
+Finance	E-commerce and subscription billing platform	Optimize
+G&A	Logistics and shipping services	Optimize
+Legal	Employment and corporate law services	Consolidate
+HR	Workers compensation insurance in NSW Australia	Optimize
+Legal	Immigration and employment law services	Consolidate
+G&A	Office supplies and general procurement	Optimize
+Engineering	Data management and master data services	Optimize
+G&A	Business services provider	Optimize
+HR	Staffing and personnel management services	Consolidate
+G&A	Retail store for office supplies	Optimize
+G&A	Corporate lunch and meal services	Consolidate
+G&A	Corporate travel and transportation	Consolidate
+Marketing	Digital content and video production	Optimize
+Finance	Share registry and equity plan administration	Optimize
+HR	Insurance provider in Western Australia	Consolidate
+Engineering	IT services and technology consulting	Consolidate
+Engineering	Domain registration and web hosting services	Optimize
+Marketing	Media advertising and event listings	Terminate
+Finance	Banking services in Croatia	Optimize
+G&A	Transportation and delivery services	Optimize
+Legal	Intellectual property and patent services	Optimize
+G&A	Corporate event planning and management	Consolidate
+Engineering	Web development resources and conferences	Optimize
+HR	Learning management system (TalentLMS)	Optimize
+G&A	Airline travel for business trips	Consolidate
+G&A	Sports entertainment and team building	Terminate
+G&A	Business services and equipment provider	Optimize
+G&A	Business services provider	Optimize
+G&A	Hotel for corporate accommodation	Consolidate
+G&A	Sports club for team activities	Terminate
+HR	Employee bicycle benefit program	Terminate
+Engineering	Apple hardware and services Americas	Consolidate
+Legal	Corporate legal services in India	Consolidate
+Legal	Employment and corporate law firm	Consolidate
+G&A	Virtual mailbox and postal services	Optimize
+G&A	Corporate catering services	Consolidate
+G&A	Corporate event management and planning	Consolidate
+G&A	Printing and graphics services	Optimize
+G&A	Restaurant for corporate dining	Consolidate
+Legal	Image copyright protection and licensing	Optimize
+Finance	Business credit and data analytics	Optimize
+Legal	Corporate and M&A legal services in India	Consolidate
+G&A	Delivery and courier services	Optimize
+Legal	Immigration and visa legal services	Consolidate
+G&A	Venue and event space in Zagreb	Consolidate
+G&A	Hospitality and catering services	Consolidate
+G&A	Food and beverage services	Consolidate
+Engineering	Online services and web solutions	Optimize
+G&A	Venue for team social events	Terminate
+G&A	Hotel for corporate accommodation	Consolidate
+G&A	Printing and document services	Optimize
+Engineering	Telecom industry standards membership (duplicate)	Consolidate
+G&A	Hotel for corporate events in Croatia	Consolidate
+Marketing	Promotional merchandise and branded items	Consolidate
+G&A	Food services and catering	Consolidate
+Engineering	Business process and workflow software	Optimize
+Marketing	Growth marketing and consulting services	Terminate
+G&A	Hotel group for corporate accommodation	Consolidate
+G&A	Business services provider in Croatia	Optimize
+Engineering	Event technology and ticketing platform	Optimize
+G&A	Wine and beverage for corporate events	Terminate
+Engineering	Collaborative design and prototyping tool	Optimize
+Engineering	IT distribution and technology reseller	Optimize
+G&A	Courier and express delivery services	Optimize
+G&A	Hotel for corporate stays in London	Consolidate
+G&A	Business services provider	Optimize
+Legal	Law firm for corporate matters	Consolidate
+G&A	Cinema for corporate entertainment	Terminate
+G&A	Transportation for corporate events	Optimize
+G&A	Travel and destination services	Terminate
+HR	Project management certification and training	Optimize
+G&A	Moving and relocation services	Optimize
+G&A	Restaurant and catering services	Consolidate
+HR	Education and training center	Optimize
+G&A	Transportation and logistics services	Consolidate
+HR	Telemedicine and virtual healthcare	Optimize
+G&A	Retail store for office supplies	Optimize
+G&A	Restaurant for team dining	Consolidate
+HR	Online technology learning platform	Optimize
+G&A	Entertainment venue for team events	Terminate
+Engineering	DNS management and domain services	Consolidate
+HR	Job board and recruitment services	Consolidate
+G&A	Restaurant for client entertainment	Consolidate
+G&A	Online forms and document templates	Optimize
+G&A	Storage and archive services	Optimize
+Engineering	Tech community and networking in Split	Optimize
+Finance	Securities depository services in India	Optimize
+Engineering	IT services and support provider	Consolidate
+G&A	Cafe for team lunches and meetings	Consolidate
+G&A	Business services provider	Optimize
+Engineering	Password management and security software	Consolidate
+G&A	Healthy food and catering services	Consolidate
+Engineering	Data services and IT solutions	Consolidate
+G&A	Office supplies and general procurement Australia	Consolidate
+G&A	Corporate gift hampers and merchandise	Terminate
+G&A	Office plants and interior greenery	Optimize
+Marketing	Media promotion and advertising services	Terminate
+Engineering	Engineering consulting and services	Optimize
+Engineering	Software development tools (Jira Confluence)	Consolidate
+G&A	DJ services for corporate events	Terminate
+Marketing	Stock images and design resources	Optimize
+HR	Public health services and medical exams	Optimize
+G&A	Event entertainment services	Terminate
+Engineering	Technology services and solutions	Consolidate
+G&A	International shipping and courier	Consolidate
+G&A	Hotel for corporate accommodation	Consolidate
+Finance	Share transfer and registry services	Optimize
+Engineering	Network and IT infrastructure services	Consolidate
+G&A	Airline ticketing and travel services	Consolidate
+HR	Employee wellness programs	Terminate
+Engineering	Cloud communications and VoIP services	Optimize
+Engineering	Workflow automation and app integration	Consolidate
+Engineering	IT infrastructure monitoring tools	Optimize
+Finance	Business consulting and advisory	Terminate
+G&A	Flower delivery for office and events	Terminate
+G&A	Cosmetics and personal care products	Terminate
+G&A	Team building painting events	Terminate
+G&A	Parcel delivery and shipping services	Consolidate
+G&A	Business services provider	Optimize
+Engineering	Croatian software exporters association	Optimize
+G&A	Business services provider	Optimize
+Marketing	Promotional items and merchandise	Consolidate
+G&A	Zagreb city services and utilities	Optimize
+G&A	Event planning and organization	Consolidate
+G&A	Sports and recreation activities	Terminate
+HR	UX design education and training	Optimize
+G&A	Escape room team building activities	Terminate
+G&A	Office supplies and equipment	Optimize
+HR	Healthcare services for employees	Optimize
+Marketing	Business cards and printed materials	Optimize
+Finance	Business and tax consulting services	Consolidate
+G&A	Lighting and office equipment	Optimize
+G&A	Catering and food preparation services	Consolidate
+Finance	Government tax authority payments	Optimize
+Legal	Corporate legal and compliance services	Consolidate
+HR	Employee rewards and recognition	Optimize
+G&A	Express courier services UK	Consolidate
+G&A	Catering and food services	Consolidate
+G&A	Kitchen and catering equipment	Consolidate
+G&A	Trading and business services	Optimize
+G&A	Business services and trading	Optimize
+G&A	Food and beverage for office	Consolidate
+G&A	Coffee supplies for office	Consolidate
+G&A	Retail store for supplies	Optimize
+G&A	Business services provider	Optimize
+Marketing	Media monitoring services	Optimize
+G&A	Business services provider	Optimize
+G&A	Waste disposal and recycling services	Optimize
+G&A	Hotel for corporate accommodation	Consolidate
+Marketing	Business media and advertising	Terminate
+Engineering	Website monitoring and uptime tracking	Optimize
+Finance	Financial consulting services	Terminate
+Sales	B2B predictive intelligence platform	Consolidate
+Legal	UK data protection registration fees	Optimize
+G&A	Sports club membership	Terminate
+HR	Digital gift cards for employee rewards	Optimize
+Engineering	Telecommunications services	Consolidate
+G&A	Food delivery service for office	Consolidate
+G&A	Office furniture and supplies	Consolidate
+G&A	Photo printing and services	Terminate
+G&A	Business services provider	Optimize
+Legal	Government registration and fees	Optimize
+G&A	Office supplies in Australia	Consolidate
+Marketing	SMS and communication marketing	Optimize
+G&A	Printing and copying services	Consolidate
+G&A	Hospitality and catering services	Consolidate
+Engineering	Git client and developer tools	Consolidate
+G&A	Wine for corporate events	Terminate
+G&A	Same-day courier delivery	Consolidate
+G&A	Bakery and food supplies	Consolidate
+G&A	Food delivery service	Consolidate
+G&A	Express shipping and courier UK	Consolidate
+G&A	Landscaping and garden services	Terminate
+G&A	Business services provider	Optimize
+G&A	Online shopping and supplies	Optimize
+G&A	Pharmacy and health supplies	Optimize
+G&A	Bakery for team celebrations	Terminate
+G&A	Postal and mailing services	Optimize
+Engineering	Electronics and computer equipment	Consolidate
+G&A	Hardware and supplies store	Optimize
+G&A	Sports equipment and apparel	Terminate
+G&A	Restaurant and food services	Consolidate
+HR	Occupational health medical exams	Consolidate
+HR	Occupational health services	Consolidate
+HR	Occupational medicine services	Consolidate
+G&A	Food and refreshments for office	Consolidate
+G&A	Bakery for team events	Consolidate
+G&A	Grocery and office supplies Australia	Consolidate

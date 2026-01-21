@@ -1,0 +1,19 @@
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Claude Code session files
+.claude/
+
+# Temporary files
+*.tmp
+*.bak
