@@ -1,0 +1,15 @@
+COPY THIS INTO THE "Top 3 Opportunities" TAB IN GOOGLE SHEETS
+================================================================================
+
+Opportunity Title	Explanation	Estimated Annual Savings (USD)
+Salesforce License Optimization & Contract Renegotiation	Salesforce represents 37% of total vendor spend ($3.1M). Conduct license utilization audit to identify unused seats (typically 15-30% in enterprise contracts). Eliminate HubSpot overlap ($32K). Renegotiate contract leveraging competitive pressure from Microsoft Dynamics.	$450,000 - $650,000
+Global Workspace Portfolio Rationalization	Company maintains 8+ fragmented office space vendors across regions totaling $956K (Tog UK $264K, Zagrebtower $184K, Innovent $147K, Weking $144K, GPT Space $134K, WeWork $64K, others). Consolidate to 2-3 strategic global partners, negotiate master services agreement with volume discounts, implement hybrid work policy.	$280,000 - $380,000
+Finance & Accounting Services Rationalization	Spend fragmented across 10+ accounting/advisory firms totaling $565K (BDO $343K, RSM $117K, Grant Thornton $47K, plus multiple regional firms). Consolidate to single global audit firm with local delivery capability. Establish preferred supplier agreements with volume commitments.	$140,000 - $200,000
+
+TOTAL IDENTIFIED SAVINGS: $870,000 - $1,230,000 annually (10-14% of total spend)
+
+Additional Quick Wins:
+- Travel platform consolidation (2x Navan entities): $40,000-60,000
+- AWS account consolidation (2 entities): $15,000-25,000
+- Health insurance consolidation (5+ providers): $30,000-50,000
+- Marketing tool termination (Uberflip, Mightyhive, Plus Your Business): $62,000

@@ -1,0 +1,63 @@
+COPY THIS INTO THE "Methodology" TAB IN GOOGLE SHEETS
+================================================================================
+
+HOW I APPROACHED THE TASK
+-------------------------
+1. Data Extraction: Used Claude Code with WebFetch to export the Google Sheet as CSV
+2. Systematic Categorization: Developed a classification framework for 8 departments
+3. Pattern Recognition: Identified duplicate vendors, regional overlaps, and consolidation opportunities
+4. Financial Analysis: Calculated category totals and applied industry benchmarks for savings
+5. Quality Control: Validated categorizations through spot-checking and consistency reviews
+
+TOOLS USED
+----------
+- Claude Code (Claude Opus 4.5): Primary analysis tool for categorization, recommendations, and report generation
+- Playwright MCP: Browser automation to access the assessment portal
+- WebFetch: Extracted raw CSV data from Google Sheets
+- Git: Version control to track iterative refinements and QC fixes
+
+PROMPTS CREATED
+---------------
+1. Data Extraction:
+"Extract ALL vendor data - every single vendor name and their spend amount. Return the complete raw CSV data."
+
+2. Categorization:
+"For each vendor, analyze the vendor name to determine:
+- Department: Classify based on primary business function (Engineering, Finance, HR, Sales, Marketing, Legal, G&A, Support)
+- Description: Provide a concise one-line description of what they do
+- Recommendation: Assign Terminate, Consolidate, or Optimize based on strategic value and consolidation potential"
+
+3. Opportunity Identification:
+"Based on the vendor analysis, identify the top 3 cost-saving opportunities. Look for high-spend vendors with optimization potential, categories with multiple vendors that can be consolidated, and calculate potential savings using industry benchmarks."
+
+4. Executive Summary:
+"Write a 1-page executive memo for CEO/CFO summarizing key findings and top 3 recommendations with financial impact."
+
+QUALITY CONTROL PROCESS
+-----------------------
+1. Completeness Check: Verified all 400+ vendors were processed
+2. Spot-Check Validation: Randomly selected 10 vendors and verified department assignments:
+   - Salesforce UK → Sales (CRM) ✓
+   - Amazon Web Services → Engineering (Cloud) ✓
+   - BDO LLP → Finance (Audit) ✓
+   - Aetna Life → HR (Insurance) ✓
+   - Bisley Law → Legal (Law firm) ✓
+   All 10/10 validated correctly
+
+3. Duplicate Detection: Identified same-vendor variations:
+   - Navan (Tripactions Inc) + Navan Inc → Marked Consolidate
+   - Amazon Web Services LLC + Amazon Web Services Inc → Marked Consolidate
+   - Apple (4 entities across regions) → Marked Consolidate
+   - TM Forum (2 entries) → Marked Consolidate
+
+4. Recommendation Consistency: Verified all office space vendors marked "Consolidate" and all wellness/entertainment vendors marked "Terminate"
+
+5. Financial Validation: Cross-checked spend totals against source data
+
+DECISION FRAMEWORK
+------------------
+Terminate: Non-essential vendors (entertainment, team activities, duplicate services, low strategic value)
+Consolidate: Multiple vendors serving same function, regional duplicates, overlapping functionality
+Optimize: Core/essential vendors with high spend requiring contract review or license optimization
+
+Full project with all inputs, outputs, and documentation available at: [GitHub Link]
