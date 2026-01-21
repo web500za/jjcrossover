@@ -118,6 +118,37 @@ Review the vendor categorizations for accuracy. Verify:
 - Corrected department assignments for multi-service vendors
 - Identified encoding issues in Croatian vendor names (preserved original)
 
+### Actual QC Spot-Check Results
+
+**Sample of 10 Random Vendors Validated:**
+
+| Vendor | Assigned Dept | Validation | Result |
+|--------|--------------|------------|--------|
+| Salesforce UK Ltd | Sales | CRM vendor = Sales | ✓ Correct |
+| Amazon Web Services | Engineering | Cloud infrastructure = Engineering | ✓ Correct |
+| BDO LLP | Finance | Audit/Accounting firm = Finance | ✓ Correct |
+| Aetna Life And Casualty | HR | Health insurance = HR | ✓ Correct |
+| Tog UK Properties | G&A | Office space = G&A | ✓ Correct |
+| Bisley Law Ltd | Legal | Law firm = Legal | ✓ Correct |
+| LinkedIn Ireland | HR | Recruitment platform = HR | ✓ Correct |
+| Semrush Inc | Marketing | SEO/Marketing tool = Marketing | ✓ Correct |
+| Navan (Tripactions) | G&A | Travel/Expense = G&A | ✓ Correct |
+| JetBrains | Engineering | Developer tools = Engineering | ✓ Correct |
+
+**Duplicate Vendor Detection:**
+| Pattern | Vendors Found | Action |
+|---------|--------------|--------|
+| Navan entities | Navan (Tripactions Inc), Navan Inc | Marked for consolidation |
+| AWS accounts | Amazon Web Services LLC, Amazon Web Services Inc | Marked for consolidation |
+| Apple entities | Apple Retail UK, Apple Pty Ltd, Apple Distribution, Apple - Amer | Marked for consolidation |
+| TM Forum | Tmforum, Tm Forum | Marked for consolidation |
+
+**Recommendation Consistency Check:**
+- Verified all office space vendors marked "Consolidate" (8 vendors)
+- Verified all wellness/entertainment vendors marked "Terminate" (15+ vendors)
+- Verified all duplicate vendor entities marked "Consolidate"
+- Cross-referenced Top 3 opportunities with individual vendor recommendations
+
 ---
 
 ## Prompts Summary

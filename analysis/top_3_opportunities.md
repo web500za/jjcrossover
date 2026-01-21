@@ -1,7 +1,7 @@
 # Top 3 Strategic Cost-Saving Opportunities
 
 ## Executive Summary
-Based on comprehensive analysis of 400+ vendors totaling approximately **$8.5M in annual spend**, we have identified three high-impact opportunities that could yield **$1.2M - $1.8M in annual savings** (14-21% reduction).
+Based on comprehensive analysis of 400+ vendors totaling approximately **$8.5M in annual spend**, we have identified three high-impact opportunities that could yield **$1.0M - $1.5M in annual savings** (12-17% reduction).
 
 ---
 
